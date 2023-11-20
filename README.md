@@ -1,1 +1,2 @@
-# my_first_repository
+## my_first_repository
+# Это мой первый репозиторий на Гитхабе, тренируюсь
